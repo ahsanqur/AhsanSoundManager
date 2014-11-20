@@ -1,4 +1,4 @@
 AhsanSoundManager
 =================
 
-Practice App
+Practice Application on Ruby on Rails
