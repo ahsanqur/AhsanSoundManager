@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails AhsanSoundManager: development" uuid="5c508cb8-fd20-42cd-864b-e1ad65ae4bee">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails AhsanSoundManager: test" uuid="4a41ef4c-085f-4433-8a2c-41a54aa51817">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails AhsanSoundManager: production" uuid="f8e8fa93-1a97-4daa-9cc5-17056c225a91">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>

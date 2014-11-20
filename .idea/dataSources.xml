@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2607380782">
+    <data-source source="LOCAL" name="Rails AhsanSoundManager: development" uuid="5c508cb8-fd20-42cd-864b-e1ad65ae4bee">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/AhsanSoundManager_development</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>df9bdf98df99df9e</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails AhsanSoundManager: test" uuid="4a41ef4c-085f-4433-8a2c-41a54aa51817">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/AhsanSoundManager_test</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>df9bdf98df99df9e</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails AhsanSoundManager: production" uuid="f8e8fa93-1a97-4daa-9cc5-17056c225a91">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/AhsanSoundManager_production</jdbc-url>
+      <user-name>AhsanSoundManager</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddfebdfe2dff9dfebdfe4dff9dfe5dfffdfe4dfeedfe7dfebdfe4dfebdfeddfefdff8dff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
